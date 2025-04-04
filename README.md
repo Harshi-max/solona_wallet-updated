@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚀 Install
+
+cd solana-wallet-ui
+
+npm install @solana/web3.js
+
+npm start
+
+
 
 ## Available Scripts
 
