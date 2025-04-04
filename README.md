@@ -80,4 +80,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## 📸 Interface
 
 ![Screenshot](./public/Screenshot%202025-04-04%20214442.png)
+## 📸 Output
+
+![App Screenshot](./public/Screenshot%202025-04-04%20220458.png)
+
 
